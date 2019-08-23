@@ -1,0 +1,83 @@
+h1, h2, h3{
+font-family:Helvetica;
+font-weight:bolder;
+color: #2F4F4F;
+}
+
+.nav a: active{
+	background-color:green;
+}
+p{
+	font-family: Times New Roman;
+	font-size: 18px;
+}
+
+.padding{
+padding: 20px;
+}
+
+.light{
+border-top: 4px solid #2F4F4F;
+margin-top:-5px;
+width: 25%;
+}
+
+.small{
+border-top: 4px solid #708090;
+margin-top: -5px;
+width: 15%;
+}
+
+.dark{
+border-top: 2px solid black;
+}
+
+footer , .section{
+background-color:	#DCDCDC;
+}
+
+.bg-light{
+	background-color: #D3D3D3;
+	height: 100%;
+	width: 40%;
+	border: 1px solid 708090;
+	margin-bottom:50px;
+}
+
+.errorMsg{
+	font-size: 20px;
+	color:red;
+	font-family: Arial;
+	text-align:center;
+	
+	
+}
+
+.view{
+	font-size:20px;
+	color: black;
+	font-family: Arial Narrow;
+}
+
+
+
+.bookContent
+{
+	background-color: #f9f9f9;
+	margin-bottom:30px;
+	pad
+}
+.bookDisplay
+{
+	border: 1px solid #333;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+	padding:10px;
+	margin-bottom: 40px;
+	height: 450px;
+	margin: 10px;
+
+}
+body{
+	background-color: red;
+}
